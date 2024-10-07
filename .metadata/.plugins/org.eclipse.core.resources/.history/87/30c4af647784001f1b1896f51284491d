@@ -1,0 +1,13 @@
+package com.ait.in;
+
+public class Test implements  Runnable() {
+	public void run() {
+		
+	}}
+
+	public static void main(String[] args) {
+      
+     
+	}
+
+}

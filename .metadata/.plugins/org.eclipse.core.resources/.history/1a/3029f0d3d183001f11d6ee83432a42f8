@@ -1,0 +1,26 @@
+package com.ait.in;
+
+
+
+public class Person {
+	String name;
+	int age;
+
+	Person(String name, int age) {
+		this.name = name;
+		this.age = age;
+
+	}
+
+	public static void main(String[] args) {
+		Person p0 =new Person("Ram",20);
+		Person p1 =new Person("Ram",20);
+		Person p2 =new Person("Ram",20);
+		Person p3 =new Person("Ram",20);
+		Person p4 =new Person("Ram",20);
+		Person p5=new Person("Ram",20);
+
+		
+
+	}
+}
